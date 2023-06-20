@@ -30,3 +30,11 @@ https://nextjs.org/docs
 ## Leave Feedback
 
 https://github.com/vercel/next.js/discussions/41745
+
+## Plus storybook
+
+https://storybook.js.org/recipes/tailwindcss
+
+npm i next 13.4.5
+
+Auto config
